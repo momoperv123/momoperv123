@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=mdrpz&custom_title=👋&layout=compact&card_width=350&theme=dark)](https://github.com/mdrpz)
+[![Top Langs](https://github-readme-stats-tawny-five-83.vercel.app/api/top-langs/?username=mdrpz&custom_title=Hi%20there%20%F0%9F%91%8B&layout=compact&card_width=350&theme=dark)](https://github.com/mdrpz)
